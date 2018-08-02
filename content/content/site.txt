@@ -1,0 +1,5 @@
+Title: Kirby + React SSR
+
+----
+
+Text: Kirby + React SSR
